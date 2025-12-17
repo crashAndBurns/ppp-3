@@ -42,21 +42,21 @@ and compare to the glossary.
                   for the user to enter the command g++ input-file.cpp -o 
                   output-file-name to get a .cpp file to compile.
 
-8. Executable - The file output from the linker. An execuatable is system
+8. Executable - The file output from the linker. An executable is system
                 specific. .exe files designed for windows will not run on 
                 a linux system. 
 
-9. Object Code - The code resulting from the compililation process. It is 
+9. Object Code - The code resulting from the compilation process. It is 
                  designed to be used by the computer and not the user. It is
                  void of comments and whitespace.
 
-10. Commnet - A special type of code written for a human audience. See //.
+10. Comment - A special type of code written for a human audience. See //.
 
 11. Import - A  command that instructs the computer to make certain commands or
              "facilities" available in the current program. Ie. to 'import'
              them.
 
-12. Library - A section of pre-written code that the user may include or import
+12. Library - A section of prewritten code that the user may include or import
               into their own code so that they can execute commands from the
               library in their own code.
 
@@ -93,10 +93,10 @@ and compare to the glossary.
                Make the functionality of a specific library available to the 
                current program. #include directives use .h header files.
 
-21. Debugging - The process of detecting, cataloging, and elminiating errors
+21. Debugging - The process of detecting, cataloging, and elminating errors
                 or "bugs" from a program. 
 
-22. << - The output operator. It directs the program to move items to stanard
+22. << - The output operator. It directs the program to move items to standard
          out to be displayed on screen.
 
 23. Header File - A file that specifies the facilities to make available to a
